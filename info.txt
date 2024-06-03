@@ -1,0 +1,13 @@
+download python 3.9 from Microsoft  Store 
+downolad Visual studio code ( VS Code )
+
+python3.9 -m venv .myvenv
+
+activate the pythn venv
+
+open powershell as administrative and move to the libryry where you created the virtual env of python and activat install
+pip install tensorflow
+pip install -r requirements.txt
+
+python main.py
+
